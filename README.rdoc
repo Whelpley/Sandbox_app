@@ -1,12 +1,4 @@
 == HELLO!
 
-This is a sandbox, in which I will be playing around with  assorted bits of code the gain familiarity in their use.
-
-Topics being tested :
-
-* Browser geolocation
-
-* ...
-
-* ...
+This is a sandbox for Rails apps, in which I will be playing around with assorted chunks of code to gain familiarity in their use.
 
